@@ -1,6 +1,6 @@
 body {
   background-image: url(kidnamedfinger.jpg);
-
+  object-fit: contain;
 }
 
 .suswaltandmike img{
@@ -21,4 +21,8 @@ left: 400px
 
 .hank img{
 height: 100px
+}
+
+h1 {
+  color: white;
 }
