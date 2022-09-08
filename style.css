@@ -1,0 +1,24 @@
+body {
+  background-image: url(kidnamedfinger.jpg);
+
+}
+
+.suswaltandmike img{
+margin-top: 400px;
+width: 200px;
+height: 200px;
+float: right;
+}
+
+.saul img{
+  margin-top: 300px;
+}
+
+.jesse img{
+position: relative;
+left: 400px
+}
+
+.hank img{
+height: 100px
+}
