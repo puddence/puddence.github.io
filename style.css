@@ -1,6 +1,7 @@
 body {
-  background-image: url(kidnamedfinger.jpg);
-  object-fit: contain;
+  background-image: url(kidnamedfinger3.jpg);
+  background-repeat: no-repeat;
+  width: 1000px;
 }
 
 .suswaltandmike img{
@@ -24,5 +25,6 @@ height: 100px
 }
 
 h1 {
-  color: white;
+  color: red;
+
 }
